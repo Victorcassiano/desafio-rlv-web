@@ -68,8 +68,8 @@ yarn android
 ### Recursos
 
 -   Documentação do Nextjs: [https://nextjs.org/docs](https://nextjs.org/docs)
--   Documentação do Tailwindcss:  [enter link description here](https://tailwindcss.com/docs/installation)
--   Documentação do ShadcnUi:  [enter link description here](https://ui.shadcn.com/docs)
+-   Documentação do Tailwindcss:  [https://tailwindcss.com/docs/installation](https://tailwindcss.com/docs/installation)
+-   Documentação do ShadcnUi:  [https://ui.shadcn.com/docs](https://ui.shadcn.com/docs)
 -   Documentação do Momentjs:  [https://momentjs.com/](https://momentjs.com/)
 -   Documentação do Zod:  [https://github.com/colinhacks/zod](https://github.com/colinhacks/zod)
 -   Documentação do React-hook-form:  [https://react-hook-form.com/](https://react-hook-form.com/)
